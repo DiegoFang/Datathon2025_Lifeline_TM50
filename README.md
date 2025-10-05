@@ -4,9 +4,9 @@
   
  |Index |Name| Matric No.|
  |------|-------------------|-------------|
- | 1 | __FANG MINGZHI__ |(U2420845J)|
- | 2 |__TIAN SIJIA__ | (U2420466H)|
- | 3 |__HOU JUNNING__ |(U2421246K)|
+ | 1 | __FANG MINGZHI__ |(NA)|
+ | 2 |__TIAN SIJIA__ | (NA)|
+ | 3 |__HOU JUNNING__ |(NA)|
   
 
 >__Instructions:__  
